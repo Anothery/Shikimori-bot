@@ -18,7 +18,7 @@ def start(bot, update):
 
 
 def main():
-    token = '317113160:AAHAaPlCgGqams6Q1aLZKGWNZ86ilsy23QI'  # Токен бота
+    token = 'YOUR_TOKEN'  # Токен бота
     updater = Updater(token=token)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler('start', start))
