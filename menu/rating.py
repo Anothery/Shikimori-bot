@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from users import users
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from shiki import Shiki

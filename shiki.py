@@ -1,6 +1,7 @@
+# -*- coding: utf-8 -*-
+
 import requests
 from copy import copy
-from datetime import datetime
 
 
 class Shiki:

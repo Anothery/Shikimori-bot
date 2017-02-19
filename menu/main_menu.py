@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from users import clear_state
 

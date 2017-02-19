@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from shiki import Shiki
 from datetime import datetime
 from telegram import InlineKeyboardMarkup, InlineKeyboardButton
